@@ -150,6 +150,7 @@
   height: 273px;
   width: 480px;
   display: flex;
+  border: none;
 }
 
 .recipes__video-caption {
