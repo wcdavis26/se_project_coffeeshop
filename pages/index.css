@@ -4,15 +4,6 @@
 @import url(../blocks/nav.css);
 @import url(../blocks/recipes.css);
 @import url(../blocks/reservation.css);
-
-.reservation__form_label_type_checkbox {
-}
-
-.menu {
-}
-
-.about {
-}
-
-.footer {
-}
+@import url(../blocks/menu.css);
+@import url(../blocks/about.css);
+@import url(../blocks/footer.css);
