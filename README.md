@@ -18,3 +18,9 @@ This is the second project of the Software Engineering program at TripleTen. It 
 - backend properties to handle the book a table form
 - review section where user can enter review and view previous reviews
 - fun character animation saying hello in the corner also possibly ability to chat and ask questions about site and coffee shop (ai assistant-ish)
+
+## Deployment
+
+This project is deployed on GitHub Pages:
+
+- [Triple Peaks Coffee Shop](https://wcdavis26.github.io/se_project_coffeeshop/)
